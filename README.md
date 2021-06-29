@@ -1,2 +1,2 @@
 # Calendar
-Team Project
+Agile Project in Object-Oriented Programming & Design
