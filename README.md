@@ -1,5 +1,5 @@
 # Calendar
-Agile Project in Object-Oriented Programming & Design
+Object-Oriented Programming & Design | Agile Project
 
 **Team Members**
 - Flynn Gaur
